@@ -5,6 +5,12 @@
             "name": "Rodrigo Rahman",
             "email": "rodrigorahman@academiadoflutter.com.br",
             "password": "123123"
+        },
+        {
+            "id": 3,
+            "name": "Renê Henrique",
+            "email": "rene@gmail.com",
+            "password": "123456"
         }
     ],
     "adm_users": [
@@ -13,6 +19,12 @@
             "name": "Rodrigo Rahman",
             "email": "rodrigorahman@academiadoflutter.com.br",
             "password": "123123"
+        },
+        {
+            "id": 3,
+            "name": "Renê Henrique",
+            "email": "rene@gmail.com",
+            "password": "123456"
         }
     ],
     "payment-types": [
